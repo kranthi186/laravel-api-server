@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="1025px" viewBox="0 0 375 1025" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Product Info Full</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="111.590813%" y1="49.9248843%" x2="0%" y2="50.0751157%" id="linearGradient-1">
+            <stop stop-color="#FD5D9F" offset="0%"></stop>
+            <stop stop-color="#FF9291" offset="50.1187711%"></stop>
+            <stop stop-color="#8972EC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="400.149197%" y1="49.0354938%" x2="0%" y2="50.9645062%" id="linearGradient-2">
+            <stop stop-color="#FD5D9F" offset="0%"></stop>
+            <stop stop-color="#FF9291" offset="50.1187711%"></stop>
+            <stop stop-color="#8972EC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="132.930049%" y1="49.8928326%" x2="0%" y2="50.1071674%" id="linearGradient-3">
+            <stop stop-color="#FD5D9F" offset="0%"></stop>
+            <stop stop-color="#FF9291" offset="50.1187711%"></stop>
+            <stop stop-color="#8972EC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="125.640285%" y1="49.905482%" x2="0%" y2="50.094518%" id="linearGradient-4">
+            <stop stop-color="#FD5D9F" offset="0%"></stop>
+            <stop stop-color="#FF9291" offset="50.1187711%"></stop>
+            <stop stop-color="#8972EC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="167.623547%" y1="49.8309897%" x2="0%" y2="50.1690103%" id="linearGradient-5">
+            <stop stop-color="#FD5D9F" offset="0%"></stop>
+            <stop stop-color="#FF9291" offset="50.1187711%"></stop>
+            <stop stop-color="#8972EC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="687.681362%" y1="47.1655329%" x2="0%" y2="52.8344671%" id="linearGradient-6">
+            <stop stop-color="#FD5D9F" offset="0%"></stop>
+            <stop stop-color="#FF9291" offset="50.1187711%"></stop>
+            <stop stop-color="#8972EC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="199.945367%" y1="49.7588735%" x2="0%" y2="50.2411265%" id="linearGradient-7">
+            <stop stop-color="#FD5D9F" offset="0%"></stop>
+            <stop stop-color="#FF9291" offset="50.1187711%"></stop>
+            <stop stop-color="#8972EC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="12.1440567%" id="linearGradient-8">
+            <stop stop-color="#252D4A" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#252D4A" stop-opacity="0.803385417" offset="44.5438148%"></stop>
+            <stop stop-color="#252D4A" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-9" x="0" y="0" width="276" height="241" rx="10"></rect>
+        <filter x="-6.0%" y="-5.6%" width="112.0%" height="113.7%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0987985832   0 0 0 0 0.128208977   0 0 0 0 0.226243622  0 0 0 0.695991848 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-12" x="0" y="0" width="295" height="256" rx="10"></rect>
+        <filter x="-5.6%" y="-5.3%" width="111.2%" height="112.9%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0987985832   0 0 0 0 0.128208977   0 0 0 0 0.226243622  0 0 0 0.695991848 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="276" height="241" rx="10"></rect>
+        <filter x="-6.0%" y="-5.6%" width="112.0%" height="113.7%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0987985832   0 0 0 0 0.128208977   0 0 0 0 0.226243622  0 0 0 0.695991848 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product-Info-Full">
+            <rect fill="#252D4A" x="0" y="0" width="375" height="1025"></rect>
+            <g id="components-/-Match-/-Group-/-Half-Bar" transform="translate(1.000000, 662.000000)">
+                <g id="UI-/-Dividers-/-Divider-327px" transform="translate(24.000000, 25.000000)" fill="#ADB3BF" fill-rule="evenodd" opacity="0.4">
+                    <rect id="Rectangle-Copy-4" x="0" y="0" width="327" height="1"></rect>
+                </g>
+                <text id="Characteristics" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="20" fill="#FAFAFA">
+                    <tspan x="39" y="15">Characteristics</tspan>
+                </text>
+                <g id="components/-Match-/-Half-Bar-/-90%-Progress-Bar-&amp;-Text" transform="translate(32.000000, 32.000000)">
+                    <text id="Happy-|-90%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" fill="#ADB3BF">
+                        <tspan x="0" y="15">Happy | 100%</tspan>
+                    </text>
+                    <path d="M2.5,27 L141.5,27 C142.880712,27 144,28.1192881 144,29.5 C144,30.8807119 142.880712,32 141.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Base" fill="#ADB3BF" fill-rule="evenodd" opacity="0.4"></path>
+                    <path d="M2.5,27 L141.5,27 C142.880712,27 144,28.1192881 144,29.5 C144,30.8807119 142.880712,32 141.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Progress" fill="url(#linearGradient-1)" fill-rule="evenodd"></path>
+                </g>
+                <g id="components/-Match-/-Half-Bar-/-25%-Progress-Bar-&amp;-Text-Copy-1" transform="translate(32.000000, 128.000000)">
+                    <text id="Happy-|-25%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" fill="#ADB3BF">
+                        <tspan x="0" y="15">Uplifted | 25%</tspan>
+                    </text>
+                    <path d="M2.5,27 L141.5,27 C142.880712,27 144,28.1192881 144,29.5 C144,30.8807119 142.880712,32 141.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Base" fill="#ADB3BF" fill-rule="evenodd" opacity="0.4"></path>
+                    <path d="M2.5,27 L33.5,27 C34.8807119,27 36,28.1192881 36,29.5 C36,30.8807119 34.8807119,32 33.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Progress" fill="url(#linearGradient-2)" fill-rule="evenodd"></path>
+                </g>
+                <g id="components/-Match-/-Half-Bar-/-75%-Progress-Bar-&amp;-Text" transform="translate(32.000000, 80.000000)">
+                    <text id="Happy-|-75%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" fill="#ADB3BF">
+                        <tspan x="0" y="15">Euphoric | 75%</tspan>
+                    </text>
+                    <path d="M2.5,27 L141.5,27 C142.880712,27 144,28.1192881 144,29.5 C144,30.8807119 142.880712,32 141.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Base" fill="#ADB3BF" fill-rule="evenodd" opacity="0.4"></path>
+                    <path d="M2.5,27 L105.5,27 C106.880712,27 108,28.1192881 108,29.5 C108,30.8807119 106.880712,32 105.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Progress" fill="url(#linearGradient-3)" fill-rule="evenodd"></path>
+                </g>
+                <g id="components/-Match-/-Half-Bar-/-80%-Progress-Bar-&amp;-Text-Copy-1" transform="translate(32.000000, 176.000000)">
+                    <text id="Happy-|-80%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" fill="#ADB3BF">
+                        <tspan x="0" y="15">Creativity Booster | 80%</tspan>
+                    </text>
+                    <path d="M2.5,27 L141.5,27 C142.880712,27 144,28.1192881 144,29.5 C144,30.8807119 142.880712,32 141.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Base" fill="#ADB3BF" fill-rule="evenodd" opacity="0.4"></path>
+                    <path d="M2.5,27 L112.5,27 C113.880712,27 115,28.1192881 115,29.5 C115,30.8807119 113.880712,32 112.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Progress" fill="url(#linearGradient-4)" fill-rule="evenodd"></path>
+                </g>
+                <g id="components/-Match-/-Half-Bar-/-80%-Progress-Bar-&amp;-Text-Copy-1" transform="translate(32.000000, 224.000000)">
+                    <text id="Happy-|-80%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" fill="#ADB3BF">
+                        <tspan x="0" y="15">Creativity Booster | 80%</tspan>
+                    </text>
+                    <path d="M2.5,27 L141.5,27 C142.880712,27 144,28.1192881 144,29.5 C144,30.8807119 142.880712,32 141.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Base" fill="#ADB3BF" fill-rule="evenodd" opacity="0.4"></path>
+                    <path d="M2.5,27 L112.5,27 C113.880712,27 115,28.1192881 115,29.5 C115,30.8807119 113.880712,32 112.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Progress" fill="url(#linearGradient-4)" fill-rule="evenodd"></path>
+                </g>
+                <g id="components/-Match-/-Half-Bar-/-60%-Progress-Bar-&amp;-Text" transform="translate(199.000000, 32.000000)">
+                    <text id="Happy-|-60%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" fill="#ADB3BF">
+                        <tspan x="0" y="15">Stress Relief | 60%</tspan>
+                    </text>
+                    <path d="M2.5,27 L141.5,27 C142.880712,27 144,28.1192881 144,29.5 C144,30.8807119 142.880712,32 141.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Base" fill="#ADB3BF" fill-rule="evenodd" opacity="0.4"></path>
+                    <path d="M2.5,27 L83.5,27 C84.8807119,27 86,28.1192881 86,29.5 C86,30.8807119 84.8807119,32 83.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Progress" fill="url(#linearGradient-5)" fill-rule="evenodd"></path>
+                </g>
+                <g id="components/-Match-/-Half-Bar-/-75%-Progress-Bar-&amp;-Text" transform="translate(199.000000, 128.000000)">
+                    <text id="Happy-|-75%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" fill="#ADB3BF">
+                        <tspan x="0" y="15">Pain Relief | 75%</tspan>
+                    </text>
+                    <path d="M2.5,27 L141.5,27 C142.880712,27 144,28.1192881 144,29.5 C144,30.8807119 142.880712,32 141.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Base" fill="#ADB3BF" fill-rule="evenodd" opacity="0.4"></path>
+                    <path d="M2.5,27 L105.5,27 C106.880712,27 108,28.1192881 108,29.5 C108,30.8807119 106.880712,32 105.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Progress" fill="url(#linearGradient-3)" fill-rule="evenodd"></path>
+                </g>
+                <g id="components/-Match-/-Half-Bar-/-80%-Progress-Bar-&amp;-Text-Copy-1" transform="translate(199.000000, 80.000000)">
+                    <text id="Happy-|-80%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" fill="#ADB3BF">
+                        <tspan x="0" y="15">Depression Relief | 80%</tspan>
+                    </text>
+                    <path d="M2.5,27 L141.5,27 C142.880712,27 144,28.1192881 144,29.5 C144,30.8807119 142.880712,32 141.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Base" fill="#ADB3BF" fill-rule="evenodd" opacity="0.4"></path>
+                    <path d="M2.5,27 L112.5,27 C113.880712,27 115,28.1192881 115,29.5 C115,30.8807119 113.880712,32 112.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Progress" fill="url(#linearGradient-4)" fill-rule="evenodd"></path>
+                </g>
+                <g id="components/-Match-/-Half-Bar-/-15%-Progress-Bar-&amp;-Text" transform="translate(199.000000, 176.000000)">
+                    <text id="Happy-|-15%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" fill="#ADB3BF">
+                        <tspan x="0" y="15">Loss of Appetite | 15</tspan>
+                    </text>
+                    <path d="M2.5,27 L141.5,27 C142.880712,27 144,28.1192881 144,29.5 C144,30.8807119 142.880712,32 141.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Base" fill="#ADB3BF" fill-rule="evenodd" opacity="0.4"></path>
+                    <path d="M2.5,27 L18.5,27 C19.8807119,27 21,28.1192881 21,29.5 C21,30.8807119 19.8807119,32 18.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Progress" fill="url(#linearGradient-6)" fill-rule="evenodd"></path>
+                </g>
+                <g id="components/-Match-/-Half-Bar-/-50%-Progress-Bar-&amp;-Text" transform="translate(199.000000, 224.000000)">
+                    <text id="Happy-|-50%" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" fill="#ADB3BF">
+                        <tspan x="0" y="15">Insomnia | 60% </tspan>
+                    </text>
+                    <path d="M2.5,27 L141.5,27 C142.880712,27 144,28.1192881 144,29.5 C144,30.8807119 142.880712,32 141.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Base" fill="#ADB3BF" fill-rule="evenodd" opacity="0.4"></path>
+                    <path d="M2.5,27 L69.5,27 C70.8807119,27 72,28.1192881 72,29.5 C72,30.8807119 70.8807119,32 69.5,32 L2.5,32 C1.11928813,32 1.69088438e-16,30.8807119 0,29.5 C-1.69088438e-16,28.1192881 1.11928813,27 2.5,27 Z" id="Progress" fill="url(#linearGradient-7)" fill-rule="evenodd"></path>
+                </g>
+            </g>
+            <g id="CTA-v2" transform="translate(33.000000, 536.000000)">
+                <g id="CTA/Small-CTA/-24-/Fliter-Unselected" transform="translate(104.500000, 0.000000)">
+                    <g id="button">
+                        <rect id="base" fill="#1B2136" x="0" y="0" width="98" height="24" rx="12"></rect>
+                        <text id="B" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" letter-spacing="0.2" fill="#9782EF">
+                            <tspan x="15.5480469" y="15">1/4 • $60.00</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="CTA/Small-CTA/-24-/Fliter-Unselected" transform="translate(209.500000, 0.000000)">
+                    <g id="button">
+                        <rect id="base" fill="#1B2136" x="0" y="0" width="101" height="24" rx="12"></rect>
+                        <text id="B" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" letter-spacing="0.2" fill="#9782EF">
+                            <tspan x="12.5183594" y="15">1oz • $240.00</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="CTA/Small-CTA/-24-/-Fliter-Selected" transform="translate(0.500000, 0.000000)">
+                    <g id="button">
+                        <rect id="base" stroke="#9782EF" stroke-width="1.5" fill="#1B2136" stroke-linejoin="round" x="0" y="0" width="98" height="24" rx="12"></rect>
+                        <text id="B" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" line-spacing="16" letter-spacing="0.2" fill="#9782EF">
+                            <tspan x="15.5216797" y="15">1/8 • $30.00</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="CTA/Medium-CTA/outlined/purple" transform="translate(0.500000, 48.000000)">
+                    <rect id="Base" stroke="#9782EF" stroke-width="1.5" stroke-linejoin="round" x="0" y="0" width="310" height="50" rx="25"></rect>
+                    <text id="Add-to-Cart" font-family="SFProText-Regular, SF Pro Text" font-size="16" font-weight="normal" line-spacing="16" letter-spacing="-0.3858824" fill="#9782EF">
+                        <tspan x="113.5" y="32">Add to Cart</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="text" transform="translate(24.000000, 400.000000)">
+                <text id="Indica-dominant-stra" font-family="SFProText-Regular, SF Pro Text" font-size="14" font-weight="normal" line-spacing="18" fill="#ADB3BF">
+                    <tspan x="16" y="67.9414286">Indica dominant strain known for its strong </tspan>
+                    <tspan x="16" y="85.9414286">grape smell and relaxing effect.  Great for </tspan>
+                    <tspan x="16" y="103.941429">stress and pain relief.</tspan>
+                </text>
+            </g>
+            
+        </g>
+    </g>
+</svg>
